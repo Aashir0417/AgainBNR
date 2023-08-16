@@ -31,7 +31,7 @@
 
 .up {
     position: relative;
-    top: -170px;
+    top: -380px;
 }
 
 .head1 {
@@ -72,27 +72,7 @@
 
 }
 
-   /* Media query for medium screens (tablets) */
-   @media (min-width: 768px) {
-    .navbar {
-        background-color: blue;
-    }
 
-    .content {
-        min-width: 768px;
-    }
-}
-
-/* Media query for small screens (mobile) */
-@media (min-width: 576px) {
-    .navbar {
-        background-color: green;
-    }
-
-    .content {
-        min-width: 576px;
-    }
-}
 
 
 .pos2 {
@@ -229,6 +209,7 @@ footer h1 {
 .bnr-move {
     position: relative;
     left: 14%;
+    top: 130px;
 }
 
 .footer-items {
